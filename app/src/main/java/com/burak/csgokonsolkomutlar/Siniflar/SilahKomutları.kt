@@ -1,0 +1,78 @@
+package com.burak.csgokonsolkomutlar.Siniflar
+
+class SilahKomutları {
+
+    companion object {
+        val silahCommand = arrayOf(
+            "give weapon_m4a1_silencer",
+            "give weapon_m4a1",
+            "give weapon_ak47",
+            "give weapon_aug",
+            "give weapon_awp",
+            "give weapon_bizon",
+            "give weapon_famas",
+            "give weapon_g3sg1",
+            "give weapon_galilar",
+            "give weapon_m249",
+            "give weapon_mac10",
+            "give weapon_mag7",
+            "give weapon_mp7",
+            "give weapon_mp9",
+            "give weapon_negev",
+            "give weapon_nova",
+            "give weapon_scar20",
+            "give weapon_sg553",
+            "give weapon_ssg08",
+            "give weapon_ump45",
+            "give weapon_deagle",
+            "give weapon_elite",
+            "give weapon_fiveseven",
+            "give weapon_glock",
+            "give weapon_hkp2000",
+            "give weapon_tec9",
+            "give weapon_hegrenade",
+            "give weapon_c4",
+            "give weapon_flashbang",
+            "give weapon_incgrenade",
+            "give weapon_molotov",
+            "give weapon_smokegrenade",
+            "give weapon_taser"
+        )
+
+        val silahCommandInfo = arrayOf(
+            "M4A1-S",
+            "M4",
+            "AK-47",
+            "AUG",
+            "AWP",
+            "PP-Bizon",
+            "FAMAS",
+            "G3SG1",
+            "Galil Ar",
+            "M249",
+            "MAC10",
+            "Mag-7",
+            "MP7",
+            "MP9",
+            "Negev",
+            "Nova",
+            "SCAR-20",
+            "SG553",
+            "SSG08",
+            "UMP",
+            "Desert Eagle",
+            "Çift Baretta",
+            "Five-Seven",
+            "Glock-18",
+            "P2000",
+            "Tec-9",
+            "El Bombası",
+            "C4",
+            "Flaş Bombası",
+            "Yanıcı Bomba",
+            "Molotof",
+            "Sis Bombası",
+            "Zeus"
+        )
+    }
+}
